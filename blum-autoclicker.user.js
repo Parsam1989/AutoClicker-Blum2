@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         Blum Autoclicker
+// @name         AutoClicker-Blum
 // @version      2.4
 // @namespace    Violentmonkey Scripts
 // @author       TapPlays
 // @match        https://telegram.blum.codes/*
 // @grant        none
 // @icon         https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65ba99c1616e21b24009b86c_blum-256.png
-// @downloadURL  https://github.com/TapPlays/Blum/raw/main/blum-autoclicker.user.js
-// @updateURL    https://github.com/TapPlays/Blum/raw/main/blum-autoclicker.user.js
-// @homepage     https://github.com/TapPlays/Blum
+// @downloadURL  https://github.com/TapPlays/AutoClicker-Blum/raw/main/blum-autoclicker.user.js
+// @updateURL    https://github.com/TapPlays/AutoClicker-Blum/raw/main/blum-autoclicker.user.js
+// @homepage     https://github.com/TapPlays/AutoClicker-Blum
 // ==/UserScript==
 
 let GAME_SETTINGS = {
