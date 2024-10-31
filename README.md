@@ -1,7 +1,7 @@
 # AutoClicker-Blum
 Автоматическая игра в Blum через телеграмм браузер / Automatic Blum game via Telegram browser
 
-> [!Я в Telegram]
+> [Я в Telegram]
 > Все вопросы и предложения
 > - Контакты: [Telegram](https://t.me/farmtapplayrs001)
 > - Канал: [Telegram Channel](https://t.me/Tap_Plays1)
@@ -21,6 +21,6 @@
 - Выберите вкладку **Консоль** и вставте туда [данный код](https://github.com/TapPlays/AutoClicker-Blum/blob/main/script.txt)
 - Нажмите **Enter**
 ---
-> [!Дополнительно]
+> [Дополнительно]
 > > - Так же в моем канале вы можете купить **рефералы**, **накрутку**, **RU номера** и **аккаунты**
 > - Канал: [Telegram Channel](https://t.me/Tap_Plays1)
