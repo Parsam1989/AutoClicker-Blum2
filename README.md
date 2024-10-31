@@ -14,5 +14,5 @@
 - Установите бета верссию [Telegram](https://desktop.telegram.org/changelog#beta-version)
 - Войдите в свой аккаунт и дальше по такому пути:
 - **настройки** > **продвинутые настройки** > **эксперементальные настройки** > **Eneble webview inspecting**
-- ![Результат](result.png)
+ ![Результат](result.png)
 ---
