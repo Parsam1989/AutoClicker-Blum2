@@ -15,7 +15,7 @@
 - Установите бета верссию [Telegram](https://desktop.telegram.org/changelog#beta-version)
 - Войдите в свой аккаунт и дальше по такому пути:
 - **настройки** > **продвинутые настройки** > **эксперементальные настройки** > **Eneble webview inspecting**
- !Результат(result.png)
+ ![Результат](result.png)
 - Открыть [Бота Blum](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DBlumCryptoBot%26appname%3Dapp%26startapp%3Dref_73MHoytioH) и запустить игру в телеграме
 - Нажмите правой кнопкой мыши по окну с игрой и выберите **Проверить**
 - Выберите вкладку **Консоль** и вставте туда [данный код](https://github.com/TapPlays/AutoClicker-Blum/blob/main/script.txt)
