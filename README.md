@@ -1,5 +1,5 @@
 # AutoClicker-Blum
-Автоматическая игра в Blum через телеграмм браузер / Automatic Blum game via Telegram browser
+Автоматизация игры Blum через телеграмм браузер / Automating the Blum game via Telegram browser
 
 > [!NOTE]
 > Все вопросы и предложения
